@@ -1,0 +1,124 @@
+{
+    "shopData" : [
+        {
+            "id": 1,
+            "name": "Armud",
+            "image": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "6.64",
+            "value": "meyve"
+        },
+        {
+            "id": 2,
+            "name": "Göycə",
+            "image": "https://mela-dora.com/public/products/16439566929186846465454-1000x1000.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "5.31",
+            "value": "meyve"
+        },
+        {
+            "id": 3,
+            "name": "Gavalı",
+            "image": "https://mela-dora.com/public/products/1643956559Plum_edited-scaled.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "5.50",
+            "value": "meyve"
+        },
+        {
+            "id": 4,
+            "name": "Nektarin",
+            "image": "https://mela-dora.com/public/products/1643956465download.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "5.00",
+            "value": "meyve"
+        },
+        {
+            "id": 5,
+            "name": "Gilas",
+            "image": "https://mela-dora.com/public/products/1643956326depositphotos_52469247-stock-photo-sweet-cherry.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "4.75",
+            "value": "meyve"
+        },
+        {
+            "id": 6,
+            "name": "Alma",
+            "image": "https://mela-dora.com/public/products/1643285968product-1.png",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "3.20",
+            "value": "meyve"
+        },
+        {
+            "id": 7,
+            "name": "Portağal",
+            "image": "https://banumarket.az/wp-content/uploads/2021/05/apelsin-ispaniya-kg-92383155888981.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "2.66",
+            "value": "meyve"
+        },
+        {
+            "id": 8,
+            "name": "Şaftalı",
+            "image": "https://ecoboutique.az/public/images/products/e510f83f-5b56-4e60-b8d3-c77e0f5a277d.webp",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "8.96",
+            "value": "meyve"
+        },
+        {
+            "id": 9,
+            "name": "Qoz",
+            "image": "https://resept.az/wp-content/uploads/2017/11/big_qoz_01.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "5.00",
+            "value": "digər"
+        },
+        {
+            "id": 10,
+            "name": "Taxıl",
+            "image": "http://hafta.az/photos/2022/04/bugda-1649150590.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "5.85",
+            "value": "taxıl"
+        },
+        {
+            "id": 11,
+            "name": "Tinglər",
+            "image": "https://anews.az/file/pic/xeber/2017-05/1495436167_ting.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "3.16",
+            "value": "digər"
+        },
+        {
+            "id": 12,
+            "name": "Pomidor",
+            "image": "https://indiamarket.ca/wp-content/uploads/2020/10/TOMATO.jpg",
+            "image1": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image2": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "image3": "https://mela-dora.com/public/products/16439570251579165020_yuxuda-armud-gormek.jpg",
+            "price": "63.15",
+            "value": "tərəvəz"
+        }
+    ]
+}
